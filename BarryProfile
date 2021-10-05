@@ -24,7 +24,7 @@
      <div class="text-md-right text-center" style="font-size:20px;font-weight:300;">❝Quote here, this looks best with rather long sentences❞</div>
     </div>
     <!---------- ICON + TITLE + QUOTE END ------------------------------------->
- 
+    
     <!---------- EVENT + LINKS START ------------------------------------------>
     <div class="col-md-12">
      <div class="card p-2 mb-0 mr-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
@@ -67,7 +67,7 @@
      </div>
     </div>
    <!----------- EVENT + LINKS END ------------------------------------------->
- 
+   
    <!--------- RULES START --------------------------------------------------------->
     <div class="col-md-6">
      <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
@@ -89,7 +89,7 @@
      </div>
     </div>
    <!--------- RULES END -------------------------------------------------------------------->
- 
+   
    <!--------- INFO START --------------------------------------------------------->
     <div class="col-md-6">
      <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
@@ -111,7 +111,7 @@
      </div>
     </div>
    <!--------- INFO END -------------------------------------------------------------------->
- 
+   
    <!--------- GIANT IMG 1 START --------------------------------------------------------->
     <div class="col-md-12">
      <div class="card p-0 mb-4" style="border-width:2px;border-color: #a7b4cf;border-radius:10px">
@@ -121,7 +121,7 @@
      </div>
     </div>
    <!--------- GIANT IMG 1 END -------------------------------------------------------------------->
- 
+   
    <!--------- GIANT IMG 2 START --------------------------------------------------------->
     <div class="col-md-12">
      <div class="card p-0 mb-0" style="border-width:2px;border-color: #a7b4cf;border-radius:10px">
