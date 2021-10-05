@@ -1,6 +1,6 @@
 <!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
 <!---|    Make sure you provide square icons, links, etc                                                          |--->
-<!---|    Image placeholder: https://tinyurl.com/h96e5ux7                                                         |--->
+<!---|    Image placeholder: https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png           |--->
 <!---|    Border color: a7b4cf                                                                                    |--->
 <!---|    Text color: 29235e                                                                                      |--->
 <!---|    Link color: 656692                                                                                      |--->
@@ -172,19 +172,19 @@
        <div align="center">
          <!--------- CHARA 1 --------->
         <p><h3>Chara name</h3></p>
-        <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/h96e5ux7" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;"></a>
+        <a href="LINK" style="color: #e6b4fa;"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;"></a>
         <p>Chara desc</p>
         <!--------- CHARA 1 --------->
         <div class="mb-2" style="height:1px;width:80%;background-color:#a7b4cf;"></div><br>
         <!--------- CHARA 2 --------->
         <p><h3>Chara name</h3></p>
-        <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/h96e5ux7" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;"></a>
+        <a href="LINK" style="color: #e6b4fa;"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;"></a>
         <p>Chara desc</p>
         <!--------- CHARA 2 --------->
         <div class="mb-2" style="height:1px;width:80%;background-color:#a7b4cf;"></div><br>
         <!--------- CHARA 3 --------->
         <p><h3>Chara name</h3></p>
-        <a href="LINK" style="color: #e6b4fa;"><img src="https://tinyurl.com/h96e5ux7" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;"></a>
+        <a href="LINK" style="color: #e6b4fa;"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;"></a>
         <p>Chara desc</p>
         <!--------- CHARA 3 --------->
        </div>
