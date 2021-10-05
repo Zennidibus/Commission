@@ -1,0 +1,1014 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Image placeholder: https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png           |--->
+<!---|    Border color: a7b4cf                                                                                    |--->
+<!---|    Text color: 29235e                                                                                      |--->
+<!---|    Link color: 656692                                                                                      |--->
+<!---|    Main BG: https://f2.toyhou.se/file/f2-toyhou-se/images/35164251_W8p9BRqovp1TamT.png?1624721633          |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+ 
+<div class="container">
+ <div class="card card-block bg-faded rounded-0 mb-4" style="background: url('https://f2.toyhou.se/file/f2-toyhou-se/images/35164251_W8p9BRqovp1TamT.png?1624721633');background-size:1500px 1500px;background-attachment:fixed;">
+  <div style="color:#29235e;font-weight:500;">
+   <div class="row justify-content-center">
+    <!--------- NAVIGATION START ------------------------------------>
+    <div class="col-md-12">
+     <div class="card p-1 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8)"><div align="center"><h2><i class="fas fa-fire-alt mr-2"></i>Navigation <i class="fas fa-fire-alt mr-2"></i></h2></div></div>
+ 
+     <div class="card p-1 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8)">
+      <div align="center">
+       <ul class="nav nav-tabs card-header-tabs row mb-2">
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert1" class="btn btn-block rounded-2 active"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 1-1</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert2" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 1-2</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert3" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 1-3</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert4" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 1-4</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert5" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 1-5</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert6" class="btn btn-block rounded-2-secondary mb-4"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 1-6</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert7" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 2-1</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert8" class="btn btn-block rounded-2-secondary mb-4"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 2-2</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert9" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 3-1</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert10" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 3-2</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert11" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 3-3</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert12" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 3-4</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert13" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 3-5</b></a>
+        </li>
+        <li class="col-md-6">
+         <a style="color:#29235e;border-color: #a7b4cf;border-width:2px;border-radius:10px; background:rgba(238,238,238,0)" data-toggle="tab" href="#vert14" class="btn btn-block rounded-2-secondary"><i class="fas fa-skull fa-fw" style="color:#6e3c6e"></i> <b>Tab 3-6</b></a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <!--------- NAVIGATION END ------------------------------------>
+    <div class="col-md-12">
+     <div class="tab-content">
+   <!--------- TAB 1 START -------------------------------------------------------------------->
+      <div class="tab-pane fade active show" id="vert1">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 1-1 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 1 END -------------------------------------------------------------------->
+   <!--------- TAB 2 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert2">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 1-2 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 2 END -------------------------------------------------------------------->
+   <!--------- TAB 3 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert3">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 1-3 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 3 END -------------------------------------------------------------------->
+   <!--------- TAB 4 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert4">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 1-4 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 4 END -------------------------------------------------------------------->
+   <!--------- TAB 5 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert5">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 1-5 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 5 END -------------------------------------------------------------------->
+   <!--------- TAB 6 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert6">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 1-6 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 6 END -------------------------------------------------------------------->
+   <!--------- TAB 7 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert7">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 2-1 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 7 END -------------------------------------------------------------------->
+   <!--------- TAB 8 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert8">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 2-2 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 8 END -------------------------------------------------------------------->
+   <!--------- TAB 9 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert9">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 3-1 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 9 END -------------------------------------------------------------------->
+   <!--------- TAB 10 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert10">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 3-2 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 10 END -------------------------------------------------------------------->
+   <!--------- TAB 11 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert11">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 3-3 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 11 END -------------------------------------------------------------------->
+   <!--------- TAB 12 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert12">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 3-4 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 12 END -------------------------------------------------------------------->
+   <!--------- TAB 13 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert13">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 3-5 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 13 END -------------------------------------------------------------------->
+   <!--------- TAB 14 START -------------------------------------------------------------------->
+      <div class="tab-pane fade" id="vert14">
+       <!--------- TITLE START ------------------------------------>
+       <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+        <div align="center">
+         <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Tab 3-6 <i class="fas fa-fire-alt mr-2"></i></div>
+        </div>
+       </div>
+       <!--------- TITLE END ------------------------------------>
+       <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+        <div class="row justify-content-center">
+         <div class="col-md-12">
+          <div align="center">
+ 
+           <div class="row justify-content-center">
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+            <div class="col-md-4">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png">
+             <h2><i class="fa fa-cog" style="color:#5796c9;"></i> NAME <i class="fa fa-cog" style="color:#5796c9;"></i></h2><br>
+            </div>
+ 
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- TAB 14 END -------------------------------------------------------------------->
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
