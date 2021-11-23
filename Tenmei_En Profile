@@ -1,0 +1,255 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Image placeholder: https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png           |--->
+<!---|    Border color: a7b4cf                                                                                    |--->
+<!---|    Text color: 29235e                                                                                      |--->
+<!---|    Link color: 656692                                                                                      |--->
+<!---|    Main BG: https://f2.toyhou.se/file/f2-toyhou-se/images/35164251_W8p9BRqovp1TamT.png                     |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+ 
+<div class="container">
+ <div class="card card-block bg-faded rounded-0 mb-4" style="background: url('https://f2.toyhou.se/file/f2-toyhou-se/images/35164251_W8p9BRqovp1TamT.png');background-size:1500px 1500px;background-attachment:fixed;">
+  <div style="color:#29235e;font-weight:500;">
+   <div class="row justify-content-center">
+   <!--------- BILLBOARD START ------------------------------------>
+    <div class="col-md-12">
+     <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.6);">
+      <div align="center">
+       <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i> Billboard <i class="fas fa-fire-alt mr-2"></i></div>
+      </div>
+     </div>
+     <div class="card p-1 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background: url('https://pyxis.nymag.com/v1/imgs/e06/4aa/f4afcaeedf9340ddf37323bb12aadc7f11-01-ya-like-jazz.rsocial.w1200.jpg');height: 350px">
+      <div class="row">
+       <div class="col-md-4 my-auto">
+        <div class="card p-1 mb-0" style="border-width:0px;border-color: #a7b4cf;border-radius:5px; background:rgba(238,238,238,0.5);">
+         <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/40485771_Jgr4tZkPB0ZTe85.png">
+         <div class="card p-1 mb-0" style="border-width:0px;border-color: #a7b4cf;border-radius:5px; background:rgba(238,238,238,0.6);height: 120px">
+          <p align="center" class="my-auto">Make the text here short, any which related with current event maybe?</p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+     <!--------- BILLBOARD END ------------------------------------>
+   <!--------- ANNOUNCEMENT START ------------------------------------>
+    <div class="col-md-12">
+     <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.6);">
+      <div align="center">
+       <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i> Announcements <i class="fas fa-fire-alt mr-2"></i></div>
+      </div>
+     </div>
+     
+     <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.6);">
+      <div align="center">
+        <!--------- DESCRIPTION ------------------------------------>
+       <h1>Grand Opening of Barry Fanclub</h1><br>
+       <div style="font-size:15px">❝You like jazz?❞</div><br>
+       <div class="mb-2" style="height:1px;width:80%;background-color:#a7b4cf;"></div>
+       <br>
+      </div>
+        <!--------- DESCRIPTION ------------------------------------>
+      <div class="col-md-12">
+       <div align="center">
+        <p>The group was founded by <a href="https://toyhou.se/Arzen" style="color:#656692;"><b>Arzen</b></a> to appreciate the work of <a href="https://dreamworks.fandom.com/wiki/Jerry_Seinfeld" style="color:#656692"><b>Jerry Seinfeld</b></a> for creating Bee Movie. /j</p>
+        <p>Everyone is welcome to join.</p>
+        <br>
+       </div>
+      </div>
+     </div>
+    </div>
+     <!--------- GREETINGS END ------------------------------------>
+   <!--------- LORE START ------------------------------------>
+    <div class="col-md-6">
+     <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.6);">
+      <div align="center">
+       <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i> Lore Section <i class="fas fa-fire-alt mr-2"></i></div>
+      </div>
+     </div>
+     <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.6);">
+      <div class="rounded p-1" style="overflow-y:auto;overflow-x:hidden; height: 525px;">
+       <div align="center">
+        <p>Barry is a standard honey bee who is yellow with black stripes, black hair and blue eyes. He usually wears a pair of shoes and a yellow sweater, which covers up most of his black stripes. He's very fashionable for a bee.</p>
+        <p>Barry wants to not only follow his dream to be a Pollen Jock, but also see the outside world which is the world of humans. So he decides to join the Pollen Jocks.</p>
+        <p>Barry is a curious bee. He has the ability to see everything in the outside world. He also appears to be loving; he breaks many social barriers to be with the one he truly loves. He literally does not care what others think.</p>
+        
+        <div class="mb-2" style="height:1px;width:80%;background-color:#a7b4cf;"></div>
+        
+        <p>He has a human girlfriend maybe.</p>
+        <p>Barry is the main character on Bee Movie.</p>
+       </div>
+      </div>
+     </div>
+    </div>
+     <!--------- LORE END ------------------------------------>
+   <!--------- EVENT START ------------------------------------>
+    <div class="col-md-6">
+     <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.6);">
+      <div align="center">
+       <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i> Events <i class="fas fa-fire-alt mr-2"></i></div>
+      </div>
+     </div>
+     <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.6);">
+      <div class="rounded p-1" style="overflow-y:auto;overflow-x:hidden; height: 200px;">
+       <div align="center">
+        <p><b>2nd November, 2007</b></p>
+        <div class="mb-2" style="height:1px;width:80%;background-color:#a7b4cf;"></div>
+        <p>2nd November is the launch date of Bee Movie</p>
+        <p>If you'd like to join the event, dress as a bee and take a photo of your costume. Best costume will get free Barry signature.</p>
+       </div>
+      </div>
+     </div>
+     
+     <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+      <div align="center">
+       <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Prompts <i class="fas fa-fire-alt mr-2"></i></div>
+      </div>
+     </div>
+     <div class="card p-2 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);min-height:250px">
+      <div class="row">
+       <ul class="fa-ul py-1">
+        <li><i class="fal fa-fire-alt py-2"></i> Create a bee OC</li>
+        <li><i class="fal fa-fire-alt py-2"></i> Optional: Googly eyes, black and yellow shirt</li>
+        <li><i class="fal fa-fire-alt py-2"></i> Honey-based accessories</li>
+        <li><i class="fal fa-fire-alt py-2"></i> Have human partner</li>
+        <li><i class="fal fa-fire-alt py-2"></i> Submit to Arzen's discord server</li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   <!--------- RULES END -------------------------------------------------------------------->
+   <!--------- ADMIN AREA START ------------------------------------>
+    <div class="col-md-5">
+     <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.8);">
+      <div align="center">
+       <div style="font-size:20px"><i class="fas fa-fire-alt mr-2"></i>Role Play area <i class="fas fa-fire-alt mr-2"></i></div>
+      </div>
+     </div>
+     <div class="card p-2 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(238,238,238,0.8);">
+      <div class="rounded p-1" style="overflow-y:auto;overflow-x:hidden; height: 515px;">
+       <div class="row">
+        <ul class="fa-ul py-1">
+         <li><i class="fal fa-fire-alt py-2"></i> Bee respectful with others RP part</li>
+         <li><i class="fal fa-fire-alt py-2"></i> If you wish to engage, respect the ongoing convo</li>
+         <li><i class="fal fa-fire-alt py-2"></i> Do not try to mod other's OCs</li>
+         <li><i class="fal fa-fire-alt py-2"></i> No god mode characters, this will ruin everyone's experience</li>
+         <li><i class="fal fa-fire-alt py-2"></i> Most importantly, have fun!</li>
+        </ul>
+       
+        <div class="col-md-12"><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#a7b4cf;"></div></div></div>
+       
+       <!---|Chat 1|--->
+       <div class="col-md-12"><div style="background:rgba(0,0,0,0); height:50px;"></div>
+        <div class="card p-1 mb-2" style="border-color: #a7b4cf;border-radius:15px; background:rgba(255,255,255,0.4)">
+         <div class="row">
+        <!---| Icon URL: https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png|--->
+          <div class="col-md-2">
+           <div class="text-center">
+            <img src="https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/40485851_iSD.png" style="max-height:100px;max-width:100px;margin-top:-50px;background-color:#a7b4cf" class="img-thumbnail bg-faded border-0 rounded-circle mb-1">
+            </div>
+           </div>
+          <!---|Character name here|--->
+           <div class="col-md-8">
+            <p style="font-size:20px" align="center">Barry</p>
+           </div>
+           <!---|Chat area here|--->
+           <div class="col-md-12">
+            <div class="card p-2 mb-1" style="border-width:0px;border-color: #a7b4cf;border-radius:15px; background:rgba(255,255,255,0.6);min-height:50px;">
+             <p>Adam you won't believe this, I fell in love with a human!</p>
+            </div>
+           </div>
+          </div>
+          <div class="d-flex justify-content-between px-3">
+           <span>Sent ✓</span>
+           <span><i class="far fa-caret-circle-right"></i></span>
+          </div>
+         </div>
+        </div>
+       
+       <!---|Chat 2|--->
+        <div class="col-md-12"><div style="background:rgba(0,0,0,0); height:50px;"></div>
+         <div class="card p-1 mb-2" style="border-color: #a7b4cf;border-radius:15px; background:rgba(255,255,255,0.4)">
+          <div class="row">
+         <!---| Icon URL: https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png|--->
+           <div class="col-md-2">
+            <div class="text-center">
+             <img src="https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/40485856_xJy.png" style="max-height:100px;max-width:100px;margin-top:-50px;background-color:#a7b4cf" class="img-thumbnail bg-faded border-0 rounded-circle mb-1">
+            </div>
+           </div>
+           <!---|Character name here|--->
+           <div class="col-md-8">
+            <p style="font-size:20px" align="center">Adam</p>
+           </div>
+           <!---|Chat area here|--->
+           <div class="col-md-12">
+            <div class="card p-2 mb-1" style="border-width:0px;border-color: #a7b4cf;border-radius:15px; background:rgba(255,255,255,0.6);min-height:50px;">
+             <p>Barry WTF</p>
+            </div>
+           </div>
+          </div>
+          <div class="d-flex justify-content-between px-3">
+           <span>Sent ✓</span>
+           <span><i class="far fa-caret-circle-right"></i></span>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+     <!--------- ADMIN AREA END ------------------------------------>
+   <!--------- MASCOTS START ------------------------------------>
+    <div class="col-md-7">
+     <div class="card p-2 mb-0" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(238,238,238,0.6);">
+      <div align="center">
+       <h3><i class="fas fa-fire-alt mr-2"></i> Mascots <i class="fas fa-fire-alt mr-2"></i></h3>
+      </div>
+     </div>
+     <div class="card p-3 mb-4" style="border-width:2px;border-color: #a7b4cf;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;; background:rgba(238,238,238,0.6);">
+      <div class="rounded p-1" style="overflow-y:auto;overflow-x:hidden; height: 500px;">
+       <div align="center">
+        <div class="row">
+         
+         <!--------- CHARA 1 --------->
+         <div class="col-md-6">
+          <p><h3>Barry B Benson</h3></p>
+          <a href="https://dreamworks.fandom.com/wiki/Barry_B._Benson" style="color: #e6b4fa;"><img src="https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/40485851_iSD.png" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;"></a>
+          <br>
+         <div class="mb-2" style="height:1px;width:80%;background-color:#a7b4cf;"></div>
+        </div>
+         
+         <!--------- CHARA 2 --------->
+         <div class="col-md-6">
+          <p><h3>Adam Flayman</h3></p>
+          <a href="https://dreamworks.fandom.com/wiki/Adam_Flayman" style="color: #e6b4fa;"><img src="https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/40485856_xJy.png" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;"></a>
+          <br>
+         <div class="mb-2" style="height:1px;width:80%;background-color:#a7b4cf;"></div>
+        </div>
+         
+         <!--------- CHARA 3 --------->
+         <div class="col-md-6">
+          <p><h3>Vanessa Bloome</h3></p>
+          <a href="https://dreamworks.fandom.com/wiki/Vanessa_Bloome" style="color: #e6b4fa;"><img src="https://f2.toyhou.se/file/f2-toyhou-se/thumbnails/40485860_0Yg.png" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;"></a>
+          <br>
+         <div class="mb-2" style="height:1px;width:80%;background-color:#a7b4cf;"></div>
+        </div>
+         
+         <!--------- CHARA 4 --------->
+         <div class="col-md-6">
+          <p><h3>Chara name</h3></p>
+          <a href="LINK" style="color: #e6b4fa;"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/37684371_3H1HPgDGlutt065.png" class="d-block mx-auto mb-2 rounded-circle" style="max-height:150px;"></a>
+          <br>
+         <div class="mb-2" style="height:1px;width:80%;background-color:#a7b4cf;"></div>
+        </div>
+        
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+     <!--------- MASCOTS END ------------------------------------>
+   </div>
+  </div>
+ </div>
+</div>
