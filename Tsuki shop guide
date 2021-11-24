@@ -1,0 +1,28 @@
+Guide on how to edit the store code:
+
+When providing the image for background/shop owner/items/MYOs, make sure the image fill the canvas size and don't leave transparent gaps on all sides. This is to prevent the images (especially items and tickets) to look small on the shop.
+For shop owner make sure the artwork used is half-body or chibi for best result.
+For background, it's best to provide at least the size 800x800px for best resolution but bigger is better.
+
+To change the character shop owner, make sure to change the link <https://f2.toyhou.se/file/f2-toyhou-se/images/42261854_62qmAbyBEmQ2qrI.png>
+
+The dialog "Hello, valued customer. Take your time to look around. If you have any questions, please don't hesitate to let me know." will not appear when you press other buttons and it's okay, it's for greetings when you first open the page. You can change the greetings to fit better.
+
+For currency, discount, and no-question textbox can also be edited. This will not affect in any way. "this link" in order dialogue can lead to group purchasing page or other purchase pages. Tho I don't know what this link would go best and just alter the code haha
+
+IMPORTANT:
+When changing the item name and description, please only edit the one between <p><b> TEXT </b></p>. The item-NUM inside <div class="tab-pane fade p-3" id="ITEM-X"> is for the tab link and it will not work if this got altered.
+Make sure to use a rather long sentence to describe the item.
+ALSO:
+If you want to add another item, copy from <!--ITEM-X--> to <!--item-X end-->. The code between this is a pack for the item description. You have to copy the button below (TBA). Change the X with a number other than the available one, preferably started from 11 because of the code.
+Same goes with ticket 
+
+Make sure not to alter anything with the text box to prevent accidents.
+
+Question navs aren't necessary to edit unless you'd like to change a few words for the buttons below. Like changing "My cart is filled" to "I'm ready to buy" and other example.
+
+Please do not edit the tabs on Shop list, it's for the tabs for the items.
+
+Related with TBA above:
+Copy <li class="col-md-6 mb-1"><a class="btn btn-block rounded-2" data-toggle="tab" href="#ITEM-X"><img src="PLACEHOLDERIMG" style="height:150px"></a><p>Item X</p></li>
+change the X with a number other than the available one, preferably started from 11 because of the code. Also change the image to the item picture link by replacing PLACEHOLDERIMG. Same goes with tickets but change ITEM with TICKET.
