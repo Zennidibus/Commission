@@ -1,0 +1,102 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Image placeholder: https://tinyurl.com/y523ohl8                                                         |--->
+<!---|    Border color: E65A78                                                                                    |--->
+<!---|    Text color: FADCF0                                                                                      |--->
+<!---|    Link color: F0C8DC                                                                                      |--->
+<!---|    Note: <div style="color:#FADCF0;font-weight:500;"> border-width:2px;                                    |--->
+<!---|    Main BG: https://cdn.discordapp.com/attachments/894930437615530005/914039620415668265/New_Canvas.png    |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+ 
+<div class="row justify-content-center px-4" style="background:url(https://cdn.discordapp.com/attachments/894930437615530005/914039620415668265/New_Canvas.png);background-attachment:fixed;">
+ <div style="color:#FADCF0;font-weight:500;">
+  <div class="row justify-content-center">
+  <!--------- NAME AREA  --------->
+   <div class="col-md-10">
+    <div class="card p-2 my-4" style="border-width:2px;border-color: #E65A78;border-radius:15px; background:rgba(0,0,0,0.85)">
+     <div align="center" style="font-size:25px">
+      <span>NAME</span>
+     </div>
+    </div>
+   </div>
+   <!--------- ICON AND IMAGE AREA START ------------------------------------------------------------------------------------->
+   <div class="col-md-5 my-auto">
+    <div class="row justify-content-center">
+     <div class="col-12">
+      <div align="center">
+       <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/35200284_Kbs0TDdkgqfwLi3.png?1628260227" style="max-height:100%;max-width:100%;" class="my-4">
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--------- ICON AND IMAGE AREA END --------------------------------------------------------------------------------------->
+   <!--------- PAGE DETAILS AREA START --------------------------------------------------------------------------------------->
+   <div class="col-md-7 my-auto">
+     
+    <!---|Character info area start|--->
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #E65A78;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.85)"><div align="center"><h2><i class="far fa-crown m-1"></i> General Info <i class="far fa-crown m-1"></i></h2></div></div>
+    <div class="card p-2 pb-3 mb-4" style="border-width:2px;border-color: #E65A78;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.85);min-height:100px">
+     <div align="center">
+       <!---|You can insert texts between <p> and </p>. The command is for paragraphs.|--->
+      <p></p>
+      <p></p>
+      <p></p>
+     </div>
+    </div>
+     <!---|Character info area end|--->
+     
+   <!--------- PERSONALITY/BACKSTORY START ------------------------------------>
+    <div class="card p-2 mb-0" style="border-color: #E65A78;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.85)"></div>
+    
+    <ul class="nav nav-tabs card-header-tabs row m-0">
+     <li class="col-md-6 mx-0 p-0"><a class="btn btn-block btn-outline-secondary active" data-toggle="tab" style="color:#FADCF0;border-color: #E65A78;border-radius:0px; background:rgba(0,0,0,0.85)" href="#PERSONALITY">Personality</a></li>
+     <li class="col-md-6 mx-0 p-0"><a class="btn btn-block btn-outline-secondary" data-toggle="tab" style="color:#FADCF0;border-color: #E65A78;border-radius:0px; background:rgba(0,0,0,0.85)" href="#BACKSTORY">Backstory</a></li>
+    </ul>
+    
+    <div class="tab-content">
+     <div class="tab-pane fade active show" id="PERSONALITY">
+      <div class="card p-3" style="border-color: #E65A78;border-radius:0px; background:rgba(0,0,0,0.85);min-height:250px">
+       <div class="p-3">
+       <!---|You can insert texts between <p> and </p>. The command is for paragraphs.|--->
+        <p></p>
+        <p></p>
+        <p></p>
+       </div>
+      </div>
+     </div>
+
+     <div class="tab-pane fade" id="BACKSTORY">
+      <div class="card p-3" style="border-color: #E65A78;border-radius:0px; background:rgba(0,0,0,0.85);min-height:250px">
+       <div class="p-3">
+       <!---|You can insert texts between <p> and </p>. The command is for paragraphs.|--->
+        <p></p>
+        <p></p>
+        <p></p>
+       </div>
+      </div>
+     </div>
+     
+    </div>
+    
+    <div class="card p-2 mb-4" style="border-color: #E65A78;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.85)"></div>
+   <!--------- PERSONALITY/BACKSTORY END ------------------------------------>
+    
+     <!---|Contact area start|--->
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #E65A78;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.85)"><div align="center"><h2><i class="far fa-crown m-1"></i> Rest Info <i class="far fa-crown m-1"></i></h2></div></div>
+    <div class="card p-2 pb-3 mb-4" style="border-width:2px;border-color: #E65A78;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.85);overflow-x:hidden;overflow-y:auto;height:300px">
+     <div align="center">
+       <!---|You can insert texts between <p> and </p>. The command is for paragraphs.|--->
+        <p></p>
+        <p></p>
+        <p></p>
+      
+     </div>
+    </div>
+     <!---|Contact area end|--->
+   </div>
+   <!--------- PAGE DETAILS AREA END ------------------------------------>
+   </div>
+  </div>
+ </div>
+</div>
