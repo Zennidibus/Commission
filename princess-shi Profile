@@ -63,26 +63,26 @@
      <div align="center">
        
       <p>
-       <h2>Section 1</h2>
+       <h2>TITLE 1</h2>
        <br>
-       Write about anything you'd like here.
+       TEXT
        <br>
-       Any other additional stuff you'd like to include like links and possibly icons could be requested.
+       TEXT
        <br>
-       This is section part one in case you have other thing in mind.
+       TEXT
       </p>
       <br>
        
        <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#E65A78;"></div></div><br>
        
       <p>
-       <h2>Section 2</h2>
+       <h2>TITLE 2</h2>
        <br>
-       Because 1 section isn't enough
+       TEXT
        <br>
-       But depends on your needs, you can erase this section or copy to ass another one
+       TEXT
        <br>
-       Start from <!---|<p>|---> to <!---|</p>|--->.
+       TEXT
       </p>
       
      <br></div>
