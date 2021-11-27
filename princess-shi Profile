@@ -1,0 +1,128 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Image placeholder: https://tinyurl.com/y523ohl8                                                         |--->
+<!---|    Border color: E65A78                                                                                    |--->
+<!---|    Text color: FADCF0                                                                                      |--->
+<!---|    Link color: F0C8DC                                                                                      |--->
+<!---|    Note: <div style="color:#FADCF0;font-weight:500;"> border-width:2px;                                    |--->
+<!---|    Main BG: https://cdn.discordapp.com/attachments/894930437615530005/914039620415668265/New_Canvas.png    |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+ 
+<div class="row justify-content-center px-4" style="background:url(https://cdn.discordapp.com/attachments/894930437615530005/914039620415668265/New_Canvas.png);background-attachment:fixed;">
+ <div style="color:#FADCF0;font-weight:500;">
+  <div class="row justify-content-center">
+   <!--------- ICON AND IMAGE AREA START ------------------------------------------------------------------------------------->
+   <div class="col-md-5 my-auto">
+    <div class="row justify-content-center">
+     <div class="col-12">
+      <div align="center">
+       <img src="https://tinyurl.com/p3hdxbd3" style="max-height:100%;max-width:100%;background-color:#E65A78" class="my-4 img-thumbnail border-1 rounded-circle">
+       <br>
+       <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/35200284_Kbs0TDdkgqfwLi3.png?1628260227" style="max-height:100%;max-width:100%;" class="my-4">
+      </div>
+     </div>
+    </div>
+   </div>
+   <!--------- ICON AND IMAGE AREA END --------------------------------------------------------------------------------------->
+   <!--------- PAGE DETAILS AREA START --------------------------------------------------------------------------------------->
+   <div class="col-md-7 my-auto">
+     
+     <!---|Name/Usename area start|--->
+    <div class="card p-2 my-4" style="border-width:2px;border-color: #E65A78;border-radius:15px; background:rgba(0,0,0,0.85)">
+     <div align="center" style="font-size:25px">
+       <!---|Insert your username/preferred name here|--->
+      <span>NAME</span>
+     </div>
+    </div>
+     <!---|Name/Usename area end|--->
+    
+     <!---|Contact area start|--->
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #E65A78;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.85)"><div align="center"><h2><i class="far fa-crown m-1"></i> Contacts <i class="far fa-crown m-1"></i></h2></div></div>
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #E65A78;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.85)">
+     <div align="center">
+       <!---|You can add or erase characters list by copying from <div class="col px-2 text-center"> to </div>|--->
+      <div class="row justify-content-center">
+        
+       <div class="col-md-6"><a href="LINK" style="color:#FADCF0;border-color: #E65A78;border-radius:10px; background:rgba(0,0,0,0.0)" class="btn btn-block rounded-2"><b>SITENAME</b></a></div>
+       
+       <div class="col-md-6"><a href="LINK" style="color:#FADCF0;border-color: #E65A78;border-radius:10px; background:rgba(0,0,0,0.0)" class="btn btn-block rounded-2"><b>SITENAME</b></a></div>
+       
+       <div class="col-md-6"><a href="LINK" style="color:#FADCF0;border-color: #E65A78;border-radius:10px; background:rgba(0,0,0,0.0)" class="btn btn-block rounded-2"><b>SITENAME</b></a></div>
+       
+       <div class="col-md-6"><a href="LINK" style="color:#FADCF0;border-color: #E65A78;border-radius:10px; background:rgba(0,0,0,0.0)" class="btn btn-block rounded-2"><b>SITENAME</b></a></div>
+        
+      </div>
+     </div>
+    </div>
+     <!---|Contact area end|--->
+    
+     <!---|Contact area start|--->
+    <div class="card p-1 mb-0" style="border-width:2px;border-color: #E65A78;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.85)"><div align="center"><h2><i class="far fa-crown m-1"></i> General Info <i class="far fa-crown m-1"></i></h2></div></div>
+    <div class="card p-2 pb-3 mb-4" style="border-width:2px;border-color: #E65A78;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.85)">
+     <div align="center">
+       
+      <p>
+       <h2>Section 1</h2>
+       <br>
+       Write about anything you'd like here.
+       <br>
+       Any other additional stuff you'd like to include like links and possibly icons could be requested.
+       <br>
+       This is section part one in case you have other thing in mind.
+      </p>
+      <br>
+       
+       <br><div align="center"><div class="mb-2" style="height:1px;width:80%;background-color:#E65A78;"></div></div><br>
+       
+      <p>
+       <h2>Section 2</h2>
+       <br>
+       Because 1 section isn't enough
+       <br>
+       But depends on your needs, you can erase this section or copy to ass another one
+       <br>
+       Start from <!---|<p>|---> to <!---|</p>|--->.
+      </p>
+      
+     <br></div>
+    </div>
+     <!---|Contact area end|--->
+   </div>
+   <!--------- PAGE DETAILS AREA END ------------------------------------>
+    
+   <!--------- CHARACTERS AREA START ------------------------------------>
+   <!---|You can add or erase characters list by copying from <div class="col px-2 text-center"> to </div>|--->
+   <div class="col-md-12">
+    <div class="row">
+        <!---|Character 1|--->
+     <div class="col px-2 text-center">
+      <a href="LINKHERE" class="img-thumbnail rounded-circle" style="border-color: #E65A78;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+	     <div class="card p-1 mb-4" style="border-width:2px;border-color: #E65A78;border-radius:10px; background:rgba(0,0,0,0.85)"><div align="center"><b>CHARACTER</b></div></div></a>
+     </div>
+      <!---|Character 2|--->
+     <div class="col px-2 text-center">
+      <a href="LINKHERE" class="img-thumbnail rounded-circle" style="border-color: #E65A78;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+	     <div class="card p-1 mb-4" style="border-width:2px;border-color: #E65A78;border-radius:10px; background:rgba(0,0,0,0.85)"><div align="center"><b>CHARACTER</b></div></div></a>
+     </div>
+      <!---|Character 3|--->
+     <div class="col px-2 text-center">
+      <a href="LINKHERE" class="img-thumbnail rounded-circle" style="border-color: #E65A78;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+	     <div class="card p-1 mb-4" style="border-width:2px;border-color: #E65A78;border-radius:10px; background:rgba(0,0,0,0.85)"><div align="center"><b>CHARACTER</b></div></div></a>
+     </div>
+      <!---|Character 4|--->
+     <div class="col px-2 text-center">
+      <a href="LINKHERE" class="img-thumbnail rounded-circle" style="border-color: #E65A78;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+	     <div class="card p-1 mb-4" style="border-width:2px;border-color: #E65A78;border-radius:10px; background:rgba(0,0,0,0.85)"><div align="center"><b>CHARACTER</b></div></div></a>
+     </div>
+      <!---|Character 5|--->
+     <div class="col px-2 text-center">
+      <a href="LINKHERE" class="img-thumbnail rounded-circle" style="border-color: #E65A78;background:url(https://tinyurl.com/p3hdxbd3) no-repeat center;background-size:cover;height:150px;width:150px;"></a>
+	     <div class="card p-1 mb-4" style="border-width:2px;border-color: #E65A78;border-radius:10px; background:rgba(0,0,0,0.85)"><div align="center"><b>CHARACTER</b></div></div></a>
+     </div>
+    </div>
+     <!---|Characters area end|--->
+   </div>
+  </div>
+ </div>
+</div>
