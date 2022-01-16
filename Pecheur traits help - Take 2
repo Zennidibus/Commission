@@ -1,0 +1,333 @@
+<div style="color:#000;font-weight:500;">
+ <div align="center">
+  <strong style="font-size:30px;">Appearance and Traits List</strong>
+  <br>
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/59b39879-b139-4e7a-af92-96550b9f2543/degt2x2-fe14cd79-4693-4eff-bd6c-bae6a12d2c6f.png/v1/fill/w_565,h_1414,q_70,strp/anatomyof_1_by_kiyasamatheinu_degt2x2-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0yMDAwIiwicGF0aCI6IlwvZlwvNTliMzk4NzktYjEzOS00ZTdhLWFmOTItOTY1NTBiOWYyNTQzXC9kZWd0MngyLWZlMTRjZDc5LTQ2OTMtNGVmZi1iZDZjLWJhZTZhMTJkMmM2Zi5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.ENSF_NVVm5VgIbwjIfLSNsEdSpwpR92OPcc0XoHxAoI" class="fr-fic fr-dii"height="1200" alt="anatomyof_1_by_kiyasamatheinu_degt2x2-pr">
+   <br>
+   <!--------- TRAIT COLORS AREA START ------------------------------------>
+   <strong style="font-size:24px;">Trait Color Guide</strong>
+   <br>
+   <strong style="font-size:18px;">
+    <span style="color:#BF1515;">Red = Common</span>
+     / 
+    <span style="color:#2d0092;">Blue = Uncommon</span>
+     / 
+    <span style="color:#1a6732;">Green = Rare</span>
+     / 
+    <span style="color:#CC7D1C;">Yellow = Legendary</span>
+   </strong>
+   <br><br><br>
+   <!--------- NAVIGATION START, START COPY HERE ------------------------------------>
+   <div class="col-md-12">
+    <ul class="nav nav-tabs card-header-tabs row">
+     <li class="col-md-2">
+      <a style="font-size:21px;color:#000;border-color: #000;border-radius:10px; background-color: #fff" data-toggle="tab" href="#WISPS" class="btn btn-block rounded-2 active py-2 px-4 mr-0 mb-0">Wisps</a>
+     </li>
+     <li class="col-md-2">
+      <a style="font-size:21px;color:#000;border-color: #000;border-radius:10px; background-color: #fff" data-toggle="tab" href="#EARS" class="btn btn-block rounded-2 py-2 px-4 mr-0 mb-0">Ears</a>
+     </li>
+     <li class="col-md-2">
+      <a style="font-size:21px;color:#000;border-color: #000;border-radius:10px; background-color: #fff" data-toggle="tab" href="#FINS" class="btn btn-block rounded-2 py-2 px-4 mr-0 mb-0">Fins</a>
+     </li>
+     <li class="col-md-2">
+      <a style="font-size:21px;color:#000;border-color: #000;border-radius:10px; background-color: #fff" data-toggle="tab" href="#TAILS" class="btn btn-block rounded-2 py-2 px-4 mr-0 mb-0">Tails</a>
+     </li>
+     <li class="col-md-2">
+      <a style="font-size:21px;color:#000;border-color: #000;border-radius:10px; background-color: #fff" data-toggle="tab" href="#HOOKS" class="btn btn-block rounded-2 py-2 px-4 mr-0 mb-0">Hooks</a>
+     </li>
+     <li class="col-md-2">
+      <a style="font-size:21px;color:#000;border-color: #000;border-radius:10px; background-color: #fff" data-toggle="tab" href="#BLOBBERS" class="btn btn-block rounded-2 py-2 px-4 mr-0 mb-0">Blobbers</a>
+     </li>
+    </ul>
+   </div>
+   <br><br><br>
+   <!--------- NAVIGATION END, STOPS HERE TO COPY THE TAB ABOVE ------------------------------------>
+   <div class="col-md-12">
+    <div class="tab-content">
+   <!--------- WISPS AREA START ------------------------------------>
+     <div class="tab-pane fade active show" id="WISPS">
+      <p style="font-size:24px;">Wisps</p><br>
+      <div class="row justify-content-around">
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392094784856114/WispsCommon.png" width="200">
+        <br>
+        <span style="font-size:24px;">None</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#BF1515;background-color:#BF1515;border-radius:10px;" class="mt-3 p-1">Common</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392136417509436/WispsUnCommon.png" width="200">
+        <br>
+        <span style="font-size:24px;">Single wisp</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#2d0092;background-color:#2d0092;border-radius:10px;" class="mt-3 p-1">Uncommon</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392181426585600/WispsRare.png" width="200">
+        <br>
+        <span style="font-size:24px;">Three wisps</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#1a6732;background-color:#1a6732;border-radius:10px;" class="mt-3 p-1">Rare</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392251660206130/WispsLegendary.png" width="200">
+        <br>
+        <span style="font-size:24px;">Wisp crown</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392295532658708/WispsLegendary2.png" width="200">
+        <br>
+        <span style="font-size:24px;">Wisp halo</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+      </div>
+     </div>
+   <!--------- EARS AREA START ------------------------------------>
+     <div class="tab-pane fade" id="EARS">
+      <p style="font-size:24px;">Ears</p><br>
+      <div class="row justify-content-around">
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931390774866763836/CommonEars.png" width="200">
+        <br>
+        <span style="font-size:24px;">Human</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#BF1515;background-color:#BF1515;border-radius:10px;" class="mt-3 p-1">Common</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931390889513848923/CommonEars2.png" width="200">
+        <br>
+        <span style="font-size:24px;">Pixie</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#BF1515;background-color:#BF1515;border-radius:10px;" class="mt-3 p-1">Common</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931390948926181386/UnCommonEars1.png" width="200">
+        <br>
+        <span style="font-size:24px;">Elf</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#2d0092;background-color:#2d0092;border-radius:10px;" class="mt-3 p-1">Uncommon</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931391155730542632/UnCommonEars2.png" width="200">
+        <br>
+        <span style="font-size:24px;">Downward elf</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#2d0092;background-color:#2d0092;border-radius:10px;" class="mt-3 p-1">Uncommon</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931391313855774781/RareEars.png" width="200">
+        <br>
+        <span style="font-size:24px;">Animal ears</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#1a6732;background-color:#1a6732;border-radius:10px;" class="mt-3 p-1">Rare</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931391451840012428/LegendaryEars.png" width="200">
+        <br>
+        <span style="font-size:24px;">Feathers</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931391638713040906/LegendaryEars2.png" width="200">
+        <br>
+        <span style="font-size:24px;">Winged</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931391816736071750/LegendaryEars3.png" width="200">
+        <br>
+        <span style="font-size:24px;">Feathered ears</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931391974295080990/LegendaryEars4.png" width="200">
+        <br>
+        <span style="font-size:24px;">Headwing + common/uncommon ears</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+      </div>
+     </div>
+   <!--------- FINS AREA START ------------------------------------>
+     <div class="tab-pane fade" id="FINS">
+      <p style="font-size:24px;">Fins</p><br>
+      <div class="row justify-content-around">
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392561086611466/CommonFins.png" width="200">
+        <br>
+        <span style="font-size:24px;">Arms</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#BF1515;background-color:#BF1515;border-radius:10px;" class="mt-3 p-1">Common</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392612361977866/CommonFins2.png" width="200">
+        <br>
+        <span style="font-size:24px;">Legs</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#BF1515;background-color:#BF1515;border-radius:10px;" class="mt-3 p-1">Common</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392684470444043/UnCommonFins.png" width="200">
+        <br>
+        <span style="font-size:24px;">Arms and legs</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#2d0092;background-color:#2d0092;border-radius:10px;" class="mt-3 p-1">Uncommon</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392815966081034/UnCommonFins2.png" width="200">
+        <br>
+        <span style="font-size:24px;">back fin</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#2d0092;background-color:#2d0092;border-radius:10px;" class="mt-3 p-1">Uncommon</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392874287865856/RareFins.png" width="200">
+        <br>
+        <span style="font-size:24px;">arms, legs, and back</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#1a6732;background-color:#1a6732;border-radius:10px;" class="mt-3 p-1">Rare</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392922044227644/RareFins2.png" width="200">
+        <br>
+        <span style="font-size:24px;">fancy fins</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#1a6732;background-color:#1a6732;border-radius:10px;" class="mt-3 p-1">Rare</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931392990319099984/LegendaryFins.png" width="200">
+        <br>
+        <span style="font-size:24px;">Wing fins</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931393054978478080/LegendaryMertail.png" width="200">
+        <br>
+        <span style="font-size:24px;">Mertail</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+      </div>
+     </div>
+   <!--------- TAIL AREA START ------------------------------------>
+     <div class="tab-pane fade" id="TAILS">
+      <p style="font-size:24px;">Tail</p><br>
+      <div class="row justify-content-around">
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931393163862638633/CommonTail.png" width="250">
+        <br>
+        <span style="font-size:24px;">Thin line</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#BF1515;background-color:#BF1515;border-radius:10px;" class="mt-3 p-1">Common</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931393246259716186/UnCommonTail.png" width="250">
+        <br>
+        <span style="font-size:24px;">Glow in the dark</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#2d0092;background-color:#2d0092;border-radius:10px;" class="mt-3 p-1">Uncommon</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931393326404472882/RareTail.png" width="250">
+        <br>
+        <span style="font-size:24px;">Rope</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#1a6732;background-color:#1a6732;border-radius:10px;" class="mt-3 p-1">Rare</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931394717130821662/LegendaryTail.png" width="250">
+        <br>
+        <span style="font-size:24px;">Twin</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931394793500729374/LegendaryTail2.png" width="250">
+        <br>
+        <span style="font-size:24px;">Animal tail + fishing line</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+      </div>
+     </div>
+   <!--------- HOOKS AREA START ------------------------------------>
+     <div class="tab-pane fade" id="HOOKS">
+      <p style="font-size:24px;">Hooks</p><br>
+      <div class="row justify-content-around">
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931396207211851796/CommonHook.png" width="350">
+        <br>
+        <span style="font-size:24px;">Common fishing hook</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#BF1515;background-color:#BF1515;border-radius:10px;" class="mt-3 p-1">Common</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931396347456798740/CommonHook2.png" width="350">
+        <br>
+        <span style="font-size:24px;">Uncommon fishing hook</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#BF1515;background-color:#BF1515;border-radius:10px;" class="mt-3 p-1">Common</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931396453807575061/UnCommonHook.png" width="350">
+        <br>
+        <span style="font-size:24px;">Oversized hook</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#2d0092;background-color:#2d0092;border-radius:10px;" class="mt-3 p-1">Uncommon</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931396507784081408/UnCommonAnchor.png" width="350">
+        <br>
+        <span style="font-size:24px;">Anchor</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#2d0092;background-color:#2d0092;border-radius:10px;" class="mt-3 p-1">Uncommon</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931396560946855977/UnCommonHook2.png" width="350">
+        <br>
+        <span style="font-size:24px;">Decorative hook</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#2d0092;background-color:#2d0092;border-radius:10px;" class="mt-3 p-1">Uncommon</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931396689581985812/RareCrane.png" width="350">
+        <br>
+        <span style="font-size:24px;">Crane hook</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#1a6732;background-color:#1a6732;border-radius:10px;" class="mt-3 p-1">Rare</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931396748100907008/RareHook.png" width="350">
+        <br>
+        <span style="font-size:24px;">Clasp hook</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#1a6732;background-color:#1a6732;border-radius:10px;" class="mt-3 p-1">Rare</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931396813683056660/LegendaryHook.png" width="350">
+        <br>
+        <span style="font-size:24px;">Living hook</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931396864866131988/LegendaryHook2.png" width="350">
+        <br>
+        <span style="font-size:24px;">Spectral hook</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+      </div>
+     </div>
+   <!--------- BLOBBERS AREA START ------------------------------------>
+     <div class="tab-pane fade" id="BLOBBERS">
+      <p style="font-size:24px;">Blobbers</p><br>
+      <div class="row justify-content-around">
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931395794593022002/CommonBobber.png" width="250">
+        <br>
+        <span style="font-size:24px;">None</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#BF1515;background-color:#BF1515;border-radius:10px;" class="mt-3 p-1">Common</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931395855007744121/UnCommonBobber.png" width="250">
+        <br>
+        <span style="font-size:24px;">Simple shaped</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#2d0092;background-color:#2d0092;border-radius:10px;" class="mt-3 p-1">Uncommon</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931395911878316082/RareBobber.png" width="250">
+        <br>
+        <span style="font-size:24px;">Item blobber</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#1a6732;background-color:#1a6732;border-radius:10px;" class="mt-3 p-1">Rare</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931395962365157437/RareBobber2.png" width="250">
+        <br>
+        <span style="font-size:24px;">Multi items</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#1a6732;background-color:#1a6732;border-radius:10px;" class="mt-3 p-1">Rare</span>
+       </p>
+       <p class="px-1">
+        <img src="https://cdn.discordapp.com/attachments/931390512664035418/931396072914432000/LegendaryBobber.png" width="250">
+        <br>
+        <span style="font-size:24px;">Dreamcatcher</span><br>
+        <span style="font-size:18px;color:#fff;border-color:#CC7D1C;background-color:#CC7D1C;border-radius:10px;" class="mt-3 p-1">Legendary</span>
+       </p>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
