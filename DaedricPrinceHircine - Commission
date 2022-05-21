@@ -43,8 +43,8 @@
    <!--------- ABOUT TAB START ------------------------------------>
      <div class="tab-pane fade active show" id="ABOUT">
       <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
-       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>About<i class="fas fa-star m-1"></i></h1></div></div>
-       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 565px;">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0)"><div align="center"><h1><i class="fas fa-star m-1"></i>About<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0);overflow-x:hidden;overflow-y:auto; height: 565px;">
         <p>Text to start the paragraph</p>
         <p>Second one in case you need to break into smaller sentences or paragraphs</p>
         <p>You can copy from this section to make more</p>
@@ -57,8 +57,8 @@
    <!--------- STORY TAB START ------------------------------------>
      <div class="tab-pane fade" id="STORY">
       <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
-       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Story<i class="fas fa-star m-1"></i></h1></div></div>
-       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 565px;">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Story<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0);overflow-x:hidden;overflow-y:auto; height: 565px;">
         <div align="center">
          <h1><i class="fas fa-star m-1"></i>Free to change title<i class="fas fa-star m-1"></i></h1>
          <p>Text to start the paragraph</p>
@@ -87,9 +87,9 @@
    <!--------- RELATIONSHIPS TAB START ------------------------------------>
      <div class="tab-pane fade" id="RELATIONSHIPS">
       <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
-       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Relationships<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Relationships<i class="fas fa-star m-1"></i></h1></div></div>
        <!---|You can change the name, nickname, gender, and age in this section|--->
-       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 565px;">
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0);overflow-x:hidden;overflow-y:auto; height: 565px;">
         <div align="center">
          <div class="row">
           <div class="col-md-12">
@@ -171,8 +171,8 @@
    <!--------- TRAITS TAB START ------------------------------------>
      <div class="tab-pane fade" id="TRAITS">
       <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
-       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Traits<i class="fas fa-star m-1"></i></h1></div></div>
-       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 565px;">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Traits<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0);overflow-x:hidden;overflow-y:auto; height: 565px;">
         <div align="center">
          
         <!---|Straightforward traits|--->
@@ -209,8 +209,8 @@
    <!--------- OTHERS TAB START ------------------------------------>
      <div class="tab-pane fade" id="OTHERS">
       <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
-       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Others<i class="fas fa-star m-1"></i></h1></div></div>
-       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 565px;">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Others<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0);overflow-x:hidden;overflow-y:auto; height: 565px;">
         <div class="row">
           
          <div class="col-md-6">
@@ -1316,8 +1316,8 @@
      <div class="tab-content">
    <!--------- ABOUT TAB START ------------------------------------>
       <div class="tab-pane fade active show" id="ABOUTDIGI">
-       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>About<i class="fas fa-star m-1"></i></h1></div></div>
-       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 550px;">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0)"><div align="center"><h1><i class="fas fa-star m-1"></i>About<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0);overflow-x:hidden;overflow-y:auto; height: 550px;">
         <p>Text to start the paragraph</p>
         <p>Second one in case you need to break into smaller sentences or paragraphs</p>
         <p>You can copy from this section to make more</p>
@@ -1328,8 +1328,8 @@
        
    <!--------- LIKES/DISLIKES TAB START ------------------------------------>
       <div class="tab-pane fade" id="INTERESTDIGI">
-       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Likes/Dislikes<i class="fas fa-star m-1"></i></h1></div></div>
-       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 550px;">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Likes/Dislikes<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0);overflow-x:hidden;overflow-y:auto; height: 550px;">
         <div align="center">
          <div class="row">
           <div class="col-md-6">
@@ -1372,8 +1372,8 @@
        
    <!--------- RELATIONSHIP TAB START ------------------------------------>
       <div class="tab-pane fade" id="RELATIONSHIPDIGI">
-       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Relationships<i class="fas fa-star m-1"></i></h1></div></div>
-       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 550px;">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Relationships<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0);overflow-x:hidden;overflow-y:auto; height: 550px;">
         <div align="center">
          <div class="row justify-content-center">
             
@@ -1450,8 +1450,8 @@
        
    <!--------- BACKSTORY TAB START ------------------------------------>
       <div class="tab-pane fade" id="BACKSTORYDIGI">
-       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Backstory<i class="fas fa-star m-1"></i></h1></div></div>
-       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 550px;">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Backstory<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0);overflow-x:hidden;overflow-y:auto; height: 550px;">
         <div align="center">
          <h1><i class="fas fa-star m-1"></i>Free to change title<i class="fas fa-star m-1"></i></h1>
          <p>Text to start the paragraph</p>
