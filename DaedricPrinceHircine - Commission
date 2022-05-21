@@ -551,7 +551,11 @@
       <div class="row no-gutters">
   <!--------- CHAIN 1 NAVIGATION START ------------------------------------>
        <div class="col-md-12">
-        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h1>Chain 1</h1></div></div>
+        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h1>Chain 1</h1><!---|You can change the chain title|--->
+         </div>
+        </div>
         <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
          <ul class="nav nav-tabs row card-header-tabs">
           <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#CHAMPION1">Champion</a></li>
@@ -738,7 +742,11 @@
       <div class="row no-gutters">
   <!--------- CHAIN 2 NAVIGATION START ------------------------------------>
        <div class="col-md-12">
-        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h1>Chain 2</h1></div></div>
+        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h1>Chain 2</h1><!---|You can change the chain title|--->
+         </div>
+        </div>
         <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
          <ul class="nav nav-tabs row card-header-tabs">
           <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#CHAMPION2">Champion</a></li>
@@ -925,7 +933,11 @@
       <div class="row no-gutters">
   <!--------- CHAIN 3 NAVIGATION START ------------------------------------>
        <div class="col-md-12">
-        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h1>Chain 1</h1></div></div>
+        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h1>Chain 3</h1><!---|You can change the chain title|--->
+         </div>
+        </div>
         <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
          <ul class="nav nav-tabs row card-header-tabs">
           <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#CHAMPION3">Champion</a></li>
@@ -1112,7 +1124,11 @@
       <div class="row no-gutters">
   <!--------- CHAIN 4 NAVIGATION START ------------------------------------>
        <div class="col-md-12">
-        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h1>Chain (Dark)</h1></div></div>
+        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h1>Chain (Dark)</h1><!---|You can change the chain title|--->
+         </div>
+        </div>
         <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
          <ul class="nav nav-tabs row card-header-tabs">
           <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#CHAMPION4">Champion</a></li>
