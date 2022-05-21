@@ -1,0 +1,1483 @@
+<!------------------- BEFORE YOU EDIT: ------------------------------------------------------------------------------->
+<!---|    Make sure you provide square icons, links, etc                                                          |--->
+<!---|    Portrait IMG: https://f2.toyhou.se/file/f2-toyhou-se/images/35200284_Kbs0TDdkgqfwLi3.png?1628260227     |--->
+<!---|    Landscape IMG: https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111    |--->
+<!---|    Border color: a03fbe                                                                                    |--->
+<!---|    Text color: e6b4fa                                                                                      |--->
+<!---|    Link color: 944fd9                                                                                      |--->
+<!---|    Palette color: bb98e7                                                                                   |--->
+<!---|    Card transparency: (0,0,0,0.8)                                                                          |--->
+<!---|       >> You can change the RGB + the transparency by changing the 0.8 to other number                     |--->
+<!---|    Main BG: https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png                     |--->
+<!---|    Use CTRL + F to find all and edit to your liking                                                        |--->
+<!-------------------------------------------------------------------------------------------------------------------->
+ 
+<div class="row pl-4 pr-4 pt-4 mb-4" style="border-radius:25px;background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png);top:0px;bottom:0px;background-attachment:fixed;background-position: center;">
+ <div style="color:#e6b4fa;font-weight:500;">
+  <div class="row justify-content-center">
+   
+  <!--------- HUMAN AREA START ----------------------------------------------------------------------------------------->
+  <!--------- NAVIGATION START ------------------------------------>
+   <div class="col-md-12">
+    <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+     <ul class="nav nav-tabs row card-header-tabs">
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#ABOUT">About</a></li>
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#STORY">Story</a></li>
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#RELATIONSHIPS">Relationships</a></li>
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#TRAITS">Traits</a></li>
+      <li class="col-md mt-2 mb-4 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#OTHERS">Others</a></li>
+     </ul>
+    </div>
+   </div>
+  <!--------- NAVIGATION END ------------------------------------>
+  
+  <!--- CHARACTER NAME START --->
+   <div class="col-md-6">
+    <div class="card p-2 mb-1" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+     <div align="center">
+      <h2><i class="fas fa-star m-1"></i>NAME<i class="fas fa-star m-1"></i></h2>
+      <p style="font-size:18px">NICKNAME | GENDER | AGE</p>
+     </div>
+    </div>
+    <div class="tab-content">
+   <!--------- ABOUT TAB START ------------------------------------>
+     <div class="tab-pane fade active show" id="ABOUT">
+      <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>About<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 565px;">
+        <p>Text to start the paragraph</p>
+        <p>Second one in case you need to break into smaller sentences or paragraphs</p>
+        <p>You can copy from this section to make more</p>
+        <p>If you write more the box will scroll</p>
+       </div>
+      </div>
+     </div>
+   <!--------- ABOUT TAB END ------------------------------------>
+   
+   <!--------- STORY TAB START ------------------------------------>
+     <div class="tab-pane fade" id="STORY">
+      <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Story<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 565px;">
+        <div align="center">
+         <h1><i class="fas fa-star m-1"></i>Free to change title<i class="fas fa-star m-1"></i></h1>
+         <p>Text to start the paragraph</p>
+         <p>Second one in case you need to break into smaller sentences or paragraphs</p>
+        
+         <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+       
+         <h1><i class="fas fa-star m-1"></i>Another title section<i class="fas fa-star m-1"></i></h1>
+         <p>You can copy from this section to make more</p>
+         <p>If you write more the box will scroll</p>
+        
+        <!---|If you need more of there, you can copy from here...|--->
+         <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+       
+         <h1><i class="fas fa-star m-1"></i>In case of another title<i class="fas fa-star m-1"></i></h1>
+         <p>You can add more sections of these</p>
+         <p>Just copy from above the separator to the end of paragraph code</p>
+        <!---|...to here!|--->
+         
+        </div>
+       </div>
+      </div>
+     </div>
+   <!--------- STORY TAB END ------------------------------------>
+   
+   <!--------- RELATIONSHIPS TAB START ------------------------------------>
+     <div class="tab-pane fade" id="RELATIONSHIPS">
+      <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Relationships<i class="fas fa-star m-1"></i></h1></div></div>
+       <!---|You can change the name, nickname, gender, and age in this section|--->
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 565px;">
+        <div align="center">
+         <div class="row">
+          <div class="col-md-12">
+           <div class="row justify-content-center">
+             
+           <!---|You can change the link, icon, and description in this section|--->
+            <div class="col-md-4 my-auto">
+             <p><h3>NAME</h3></p>
+             <a href="LINK" style="color: #944fd9;">
+              <img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:120px;">
+             </a>
+            </div>
+            <div class="col-md-8 my-auto">
+             <p>Brief description</p>
+            </div>
+            <div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+           <!---|Section end, you can add more by copying the whole sections|--->
+             
+           <!---|You can change the link, icon, and description in this section|--->
+            <div class="col-md-4 my-auto">
+             <p><h3>NAME</h3></p>
+             <a href="LINK" style="color: #944fd9;">
+              <img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:120px;">
+             </a>
+            </div>
+            <div class="col-md-8 my-auto">
+             <p>Brief description</p>
+            </div>
+            <div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+           <!---|Section end, you can add more by copying the whole sections|--->
+             
+           <!---|You can change the link, icon, and description in this section|--->
+            <div class="col-md-4 my-auto">
+             <p><h3>NAME</h3></p>
+             <a href="LINK" style="color: #944fd9;">
+              <img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:120px;">
+             </a>
+            </div>
+            <div class="col-md-8 my-auto">
+             <p>Brief description</p>
+            </div>
+            <div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+           <!---|Section end, you can add more by copying the whole sections|--->
+             
+           <!---|You can change the link, icon, and description in this section|--->
+            <div class="col-md-4 my-auto">
+             <p><h3>NAME</h3></p>
+             <a href="LINK" style="color: #944fd9;">
+              <img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:120px;">
+             </a>
+            </div>
+            <div class="col-md-8 my-auto">
+             <p>Brief description</p>
+            </div>
+            <div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+           <!---|Section end, you can add more by copying the whole sections|--->
+             
+           <!---|You can change the link, icon, and description in this section|--->
+            <div class="col-md-4 my-auto">
+             <p><h3>NAME</h3></p>
+             <a href="LINK" style="color: #944fd9;">
+              <img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:120px;">
+             </a>
+            </div>
+            <div class="col-md-8 my-auto">
+             <p>Brief description</p>
+            </div>
+            <div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+           <!---|Section end, you can add more by copying the whole sections|--->
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+   <!--------- RELATIONSHIPS TAB END ------------------------------------>
+   
+   <!--------- TRAITS TAB START ------------------------------------>
+     <div class="tab-pane fade" id="TRAITS">
+      <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Traits<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 565px;">
+        <div align="center">
+         
+        <!---|Straightforward traits|--->
+         <div class="row justify-content-center">
+          <div class="col-md-4"><p>Trait</p></div>
+          <div class="col-md-4"><p>Trait</p></div>
+          <div class="col-md-4"><p>Trait</p></div>
+          <div class="col-md-4"><p>Trait</p></div>
+          <div class="col-md-4"><p>Trait</p></div>
+          <div class="col-md-4"><p>Trait</p></div>
+         </div>
+         <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        
+        <!---|Paragraph traits|--->
+         <p>Text to start the paragraph</p>
+         <p>Second one in case you need to break into smaller sentences or paragraphs</p>
+         <p>You can copy from this section to make more</p>
+         <p>If you write more the box will scroll</p>
+        
+        <!---|If you need more of there, you can copy from here...|--->
+         <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+       
+         <h1><i class="fas fa-star m-1"></i>Sectioned title<i class="fas fa-star m-1"></i></h1>
+         <p>You can add more sections of these</p>
+         <p>Just copy from above the separator to the end of paragraph code</p>
+        <!---|...to here!|--->
+            
+        </div>
+       </div>
+      </div>
+     </div>
+   <!--------- TRAITS TAB END ------------------------------------>
+   
+   <!--------- OTHERS TAB START ------------------------------------>
+     <div class="tab-pane fade" id="OTHERS">
+      <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Others<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 565px;">
+        <div class="row">
+          
+         <div class="col-md-6">
+          <div align="center"><h1><i class="fas fa-check m-1"></i>Likes<i class="fas fa-check m-1"></i></h1></div>
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+            <tr><td>LIKES</td></tr>
+            <tr><td>LIKES</td></tr>
+            <tr><td>LIKES</td></tr>
+            <tr><td>LIKES</td></tr>
+            <tr><td>LIKES</td></tr>
+           </tbody>
+          </table>
+         </div>
+         <div class="col-md-6">
+          <div align="center"><h1><i class="fas fa-times m-1"></i>Dislikes<i class="fas fa-times m-1"></i></h1></div>
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+            <tr><td>DISLIKES</td></tr>
+            <tr><td>DISLIKES</td></tr>
+            <tr><td>DISLIKES</td></tr>
+            <tr><td>DISLIKES</td></tr>
+            <tr><td>DISLIKES</td></tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+        
+        <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        <div align="center">
+         <h1><i class="fas fa-star m-1"></i>Trivia<i class="fas fa-star m-1"></i></h1>
+         <p>Text to start the paragraph</p>
+         <p>Second one in case you need to break into smaller sentences or paragraphs</p>
+         <p>You can copy from this section to make more</p>
+         <p>If you write more the box will scroll</p>
+        <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+        
+         <h1><i class="fas fa-star m-1"></i>Colors<i class="fas fa-star m-1"></i></h1>
+         <div class="row justify-content-center">
+           
+           <!---|To add/reduce these, simply copy from here...|--->
+          <div class="col-md-3">
+           <i class="fas fa-star fa-4x" style="color:#bb98e7"></i><!---|Change the hex code number to desired color code|--->
+           <br>
+           <p>Color name</p><!---|What does this color used for|--->
+          </div>
+           <!---|...to here!|--->
+           
+           <!---|To add/reduce these, simply copy from here...|--->
+          <div class="col-md-3">
+           <i class="fas fa-star fa-4x" style="color:#bb98e7"></i><!---|Change the hex code number to desired color code|--->
+           <br>
+           <p>Color name</p><!---|What does this color used for|--->
+          </div>
+           <!---|...to here!|--->
+           
+           <!---|To add/reduce these, simply copy from here...|--->
+          <div class="col-md-3">
+           <i class="fas fa-star fa-4x" style="color:#bb98e7"></i><!---|Change the hex code number to desired color code|--->
+           <br>
+           <p>Color name</p><!---|What does this color used for|--->
+          </div>
+           <!---|...to here!|--->
+           
+           <!---|To add/reduce these, simply copy from here...|--->
+          <div class="col-md-3">
+           <i class="fas fa-star fa-4x" style="color:#bb98e7"></i><!---|Change the hex code number to desired color code|--->
+           <br>
+           <p>Color name</p><!---|What does this color used for|--->
+          </div>
+           <!---|...to here!|--->
+           
+           <!---|To add/reduce these, simply copy from here...|--->
+          <div class="col-md-3">
+           <i class="fas fa-star fa-4x" style="color:#bb98e7"></i><!---|Change the hex code number to desired color code|--->
+           <br>
+           <p>Color name</p><!---|What does this color used for|--->
+          </div>
+           <!---|...to here!|--->
+           
+           <!---|To add/reduce these, simply copy from here...|--->
+          <div class="col-md-3">
+           <i class="fas fa-star fa-4x" style="color:#bb98e7"></i><!---|Change the hex code number to desired color code|--->
+           <br>
+           <p>Color name</p><!---|What does this color used for|--->
+          </div>
+           <!---|...to here!|--->
+           
+           <!---|To add/reduce these, simply copy from here...|--->
+          <div class="col-md-3">
+           <i class="fas fa-star fa-4x" style="color:#bb98e7"></i><!---|Change the hex code number to desired color code|--->
+           <br>
+           <p>Color name</p><!---|What does this color used for|--->
+          </div>
+           <!---|...to here!|--->
+           
+           <!---|To add/reduce these, simply copy from here...|--->
+          <div class="col-md-3">
+           <i class="fas fa-star fa-4x" style="color:#bb98e7"></i><!---|Change the hex code number to desired color code|--->
+           <br>
+           <p>Color name</p><!---|What does this color used for|--->
+          </div>
+           <!---|...to here!|--->
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+   <!--------- OTHERS TAB END ------------------------------------>
+    </div>
+   </div>
+   
+  <!--------- NAVIGATION START ------------------------------------>
+   <div class="col-md-6">
+    <div class="card p-2 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8);height:717px;">
+     <ul class="nav nav-tabs row card-header-tabs">
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#REFERENCE">Reference sheet</a></li>
+      <li class="col-md mt-2 mb-4 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#DIGIVICE">Digivice design</a></li>
+     </ul>
+  <!--------- NAVIGATION END ------------------------------------>
+    
+     <div class="tab-content">
+  <!--------- REFERENCE TAB START ------------------------------------>
+      <div class="tab-pane fade active show" id="REFERENCE">
+       <div align="center">
+        <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/35200284_Kbs0TDdkgqfwLi3.png?1628260227" style="height:660px;">
+       </div>
+      </div>
+  <!--------- REFERENCE TAB END ------------------------------------>
+  
+  <!--------- DIGIVICE TAB START ------------------------------------>
+      <div class="tab-pane fade" id="DIGIVICE">
+       <div align="center">
+        <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/35200284_Kbs0TDdkgqfwLi3.png?1628260227" style="height:660px;">
+       </div>
+      </div>
+  <!--------- DIGIVICE NAME END ------------------------------------>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</div>
+  <!--------- HUMAN AREA END ------------------------------------------------------------------------------------------->
+  
+  <!--------- DIGIMON AREA START --------------------------------------------------------------------------------------->
+<div class="row pl-4 pr-4 pt-4" style="border-radius:25px;background:url(https://f2.toyhou.se/file/f2-toyhou-se/images/28056968_JoXDcBKVHYJtPAR.png);top:0px;bottom:0px;background-attachment:fixed;background-position: center;">
+  <!---|NOTE: If you'd like different BG for the Digimon change this URL individually|--->
+ <div style="color:#e6b4fa;font-weight:500;">
+  <div class="row justify-content-center">
+  
+  <!--------- EVO-NAVIGATION START ------------------------------------>
+   <div class="col-md-12">
+    <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+     <ul class="nav nav-tabs row card-header-tabs">
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#FRESH">Fresh</a></li>
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#INTRAINING">In-Training</a></li>
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#ROOKIE">Rookie</a></li>
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#CHAIN1">Chain 1</a></li>
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#CHAIN2">Chain 2</a></li>
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#CHAIN3">Chain 3</a></li>
+      <li class="col-md mt-2 mb-4 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#CHAIN4">Chain (Dark)</a></li>
+     </ul>
+    </div>
+   </div>
+  <!--------- EVO-NAVIGATION END ------------------------------------>
+    
+   <div class="col-md-12">
+    <div class="tab-content">
+  <!--------- FRESH TAB START ------------------------------------>
+     <div class="tab-pane fade" id="FRESH">
+      <div class="row no-gutter">
+       <div class="col-md-6 my-auto">
+        <!---Image here--->
+        <div align="center">
+         <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4">
+        </div> 
+       </div>
+     
+       <div class=" col-md-6 my-auto">
+       <!---Digimon Name here--->
+        <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+         </div>
+        </div>
+        
+        <!---Biodata here--->
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <p><b>Level:</b> Fresh</p>
+          <br>
+          <p>Description of the said level, like general info</p>
+          <p>Second paragraph, feel free to erase if not needed</p>
+          <br>
+          <p>ATTRIBUTE | TYPE | FAMILY</p>
+         </div>
+        </div>
+         
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <!---|To add/reduce these, simply copy from here...|--->
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <!---|...to here!|--->
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     </div>
+  <!--------- FRESH TAB END ------------------------------------>
+    
+  <!--------- IN-TRAINING TAB START ------------------------------------>
+     <div class="tab-pane fade" id="INTRAINING">
+      <div class="row no-gutter">
+       <div class="col-md-6 my-auto">
+        <!---Image here--->
+        <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+       </div>
+        
+       <div class=" col-md-6 my-auto">
+        <!---Digimon Name here--->
+        <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+         </div>
+        </div>
+        
+        <!---Biodata here--->
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <p><b>Level:</b> In-Training</p>
+          <br>
+          <p>Description of the said level, like general info</p>
+          <p>Second paragraph, feel free to erase if not needed</p>
+          <br>
+           <p>ATTRIBUTE | TYPE | FAMILY</p>
+         </div>
+        </div>
+         
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+          <table class="table table-striped mb-0" style="border:transparent;">
+           <tbody>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <!---|To add/reduce these, simply copy from here...|--->
+           <tr>
+             <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <!---|...to here!|--->
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     </div>
+  <!--------- IN-TRAINING TAB END ------------------------------------>
+  
+  <!--------- ROOKIE TAB START ------------------------------------>
+     <div class="tab-pane fade active show" id="ROOKIE">
+      <div class="row no-gutter">
+       <div class="col-md-6 my-auto">
+       <!---Image here--->
+        <div align="center">
+         <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4">
+        </div>
+       </div>
+        
+       <div class=" col-md-6 my-auto">
+        <!---Digimon Name here--->
+        <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+         </div>
+        </div>
+         
+        <!---Biodata here--->
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+         <div align="center">
+          <p><b>Level:</b> Rookie</p>
+          <br>
+          <p>Description of the said level, like general info</p>
+          <p>Second paragraph, feel free to erase if not needed</p>
+          <br>
+          <p>ATTRIBUTE | TYPE | FAMILY</p>
+         </div>
+        </div>
+         
+        <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+        <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+         <table class="table table-striped mb-0" style="border:transparent;">
+          <tbody>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <!---|To add/reduce these, simply copy from here...|--->
+           <tr>
+            <td><b>ATTACK</b></td>
+            <td>DESCRIPTION</td>
+           </tr>
+           <!---|...to here!|--->
+          </tbody>
+         </table>
+        </div>
+       </div>
+      </div>
+     </div>
+  <!--------- ROOKIE TAB END ------------------------------------>
+    
+  <!--------- CHAIN 1 TAB START ------------------------------------>
+     <div class="tab-pane fade" id="CHAIN1">
+      <div class="row no-gutters">
+  <!--------- CHAIN 1 NAVIGATION START ------------------------------------>
+       <div class="col-md-12">
+        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h1>Chain 1</h1></div></div>
+        <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+         <ul class="nav nav-tabs row card-header-tabs">
+          <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#CHAMPION1">Champion</a></li>
+          <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#ULTIMATE1">Ultimate</a></li>
+          <li class="col-md mt-2 mb-4 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#MEGA1">Mega</a></li>
+         </ul>
+        </div>
+  <!--------- CHAIN 1 NAVIGATION END ------------------------------------>
+        <div class="tab-content">
+         
+        <!--------- CHAMPION SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade active show" id="CHAMPION1">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Champion</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Champion - 1)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+       <!--------- CHAMPION SUB-TAB END ------------------------------------>
+       <!--------- ULTIMATE SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade" id="ULTIMATE1">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Ultimate</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Ultimate - 1)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+      <!--------- ULTIMATE SUB-TAB END ------------------------------------>
+      <!--------- MEGA SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade" id="MEGA1">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Mega</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Mega - 1)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+       <!--------- MEGA SUB-TAB END ------------------------------------>
+        </div>
+       </div>
+      </div>
+     </div>
+  <!--------- CHAIN 1 TAB END ------------------------------------>
+    
+  <!--------- CHAIN 2 TAB START ------------------------------------>
+     <div class="tab-pane fade" id="CHAIN2">
+      <div class="row no-gutters">
+  <!--------- CHAIN 2 NAVIGATION START ------------------------------------>
+       <div class="col-md-12">
+        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h1>Chain 2</h1></div></div>
+        <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+         <ul class="nav nav-tabs row card-header-tabs">
+          <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#CHAMPION2">Champion</a></li>
+          <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#ULTIMATE2">Ultimate</a></li>
+          <li class="col-md mt-2 mb-4 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#MEGA2">Mega</a></li>
+         </ul>
+        </div>
+  <!--------- CHAIN 2 NAVIGATION END ------------------------------------>
+        <div class="tab-content">
+         
+        <!--------- CHAMPION SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade active show" id="CHAMPION2">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Champion</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Champion - 2)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+       <!--------- CHAMPION SUB-TAB END ------------------------------------>
+       <!--------- ULTIMATE SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade" id="ULTIMATE2">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Ultimate</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Ultimate - 2)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+      <!--------- ULTIMATE SUB-TAB END ------------------------------------>
+      <!--------- MEGA SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade" id="MEGA2">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Mega</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Mega - 2)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+       <!--------- MEGA SUB-TAB END ------------------------------------>
+        </div>
+       </div>
+      </div>
+     </div>
+  <!--------- CHAIN 2 TAB END ------------------------------------>
+    
+  <!--------- CHAIN 3 TAB START ------------------------------------>
+     <div class="tab-pane fade" id="CHAIN3">
+      <div class="row no-gutters">
+  <!--------- CHAIN 3 NAVIGATION START ------------------------------------>
+       <div class="col-md-12">
+        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h1>Chain 1</h1></div></div>
+        <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+         <ul class="nav nav-tabs row card-header-tabs">
+          <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#CHAMPION3">Champion</a></li>
+          <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#ULTIMATE3">Ultimate</a></li>
+          <li class="col-md mt-2 mb-4 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#MEGA3">Mega</a></li>
+         </ul>
+        </div>
+  <!--------- CHAIN 3 NAVIGATION END ------------------------------------>
+        <div class="tab-content">
+         
+        <!--------- CHAMPION SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade active show" id="CHAMPION3">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Champion</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Champion - 3)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+       <!--------- CHAMPION SUB-TAB END ------------------------------------>
+       <!--------- ULTIMATE SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade" id="ULTIMATE3">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Ultimate</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Ultimate - 3)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+      <!--------- ULTIMATE SUB-TAB END ------------------------------------>
+      <!--------- MEGA SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade" id="MEGA3">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Mega</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Mega - 3)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+       <!--------- MEGA SUB-TAB END ------------------------------------>
+        </div>
+       </div>
+      </div>
+     </div>
+  <!--------- CHAIN 3 TAB END ------------------------------------>
+    
+  <!--------- CHAIN 4 TAB START ------------------------------------>
+     <div class="tab-pane fade" id="CHAIN4">
+      <div class="row no-gutters">
+  <!--------- CHAIN 4 NAVIGATION START ------------------------------------>
+       <div class="col-md-12">
+        <div class="card p-2 mb-0" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h1>Chain (Dark)</h1></div></div>
+        <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px; background:rgba(0,0,0,0.8)">
+         <ul class="nav nav-tabs row card-header-tabs">
+          <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#CHAMPION4">Champion</a></li>
+          <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#ULTIMATE4">Ultimate</a></li>
+          <li class="col-md mt-2 mb-4 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#MEGA4">Mega</a></li>
+         </ul>
+        </div>
+  <!--------- CHAIN 4 NAVIGATION END ------------------------------------>
+        <div class="tab-content">
+         
+        <!--------- CHAMPION SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade active show" id="CHAMPION4">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Champion</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Champion - Dark)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+       <!--------- CHAMPION SUB-TAB END ------------------------------------>
+       <!--------- ULTIMATE SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade" id="ULTIMATE4">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Ultimate</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Ultimate - Dark)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+      <!--------- ULTIMATE SUB-TAB END ------------------------------------>
+      <!--------- MEGA SUB-TAB START ------------------------------------>
+         <div class="tab-pane fade" id="MEGA4">
+          <div class="row justify-content-center">
+          
+           <div class="col-md-6 my-auto">
+           <!---Image here--->
+            <div align="center"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/36642934_Fw5S1XFUbmfXhY6.png?1629187111" style="max-height:500px" class="mb-4"></div>
+           </div>
+           
+           <div class=" col-md-6 my-auto">
+           <!---Digimon Name here--->
+            <div class="card p-1 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <h2><i class="fas fa-star m-1"></i>DIGINAME | DIGINICKNAME<i class="fas fa-star m-1"></i></h2>
+             </div>
+            </div>
+         
+            <!---Biodata here--->
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+             <div align="center">
+              <p><b>Level:</b> Mega</p>
+              <br>
+              <p>Description of the said level, like general info</p>
+              <p>Second paragraph, feel free to erase if not needed</p>
+              <p>Placeholder text for me to see which tab this is haha (Mega - Dark)</p>
+              <br>
+              <p>ATTRIBUTE | TYPE | FAMILY</p>
+             </div>
+            </div>
+           
+            <div class="card p-1 mb-0" style="border-color: #a03fbe;border-top-right-radius:15px;border-top-left-radius:15px;border-bottom-right-radius:0px;border-bottom-left-radius:0px; background:rgba(0,0,0,0.8)"><div align="center"><h2><i class="fas fa-star m-1"></i>Attacks<i class="fas fa-star m-1"></i></h2></div></div>
+            <div class="card p-3 mb-4" style="border-color: #a03fbe;border-top-right-radius:0px;border-top-left-radius:0px;border-bottom-right-radius:15px;border-bottom-left-radius:15px;background:rgba(0,0,0,0.8)">
+             <table class="table table-striped mb-0" style="border:transparent;">
+              <tbody>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+                <!---|To add/reduce these, simply copy from here...|--->
+               <tr>
+                <td><b>ATTACK</b></td>
+                <td>DESCRIPTION</td>
+               </tr>
+               <!---|...to here!|--->
+              </tbody>
+             </table>
+            </div>
+           </div>
+          </div>
+         </div>
+       <!--------- MEGA SUB-TAB END ------------------------------------>
+        </div>
+       </div>
+      </div>
+     </div>
+  <!--------- CHAIN 4 TAB END ------------------------------------>
+    </div>
+   </div>
+   <div class="col-md-6">
+    <div class="card p-1 mb-4" style="border-width:2px;border-color: #a03fbe;border-radius:15px; background:rgba(0,0,0,0.8)">
+     <div class="tab-content">
+   <!--------- ABOUT TAB START ------------------------------------>
+      <div class="tab-pane fade active show" id="ABOUTDIGI">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>About<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 550px;">
+        <p>Text to start the paragraph</p>
+        <p>Second one in case you need to break into smaller sentences or paragraphs</p>
+        <p>You can copy from this section to make more</p>
+        <p>If you write more the box will scroll</p>
+       </div>
+      </div>
+   <!--------- ABOUT TAB END ------------------------------------>
+       
+   <!--------- LIKES/DISLIKES TAB START ------------------------------------>
+      <div class="tab-pane fade" id="INTERESTDIGI">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Likes/Dislikes<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 550px;">
+        <div align="center">
+         <div class="row">
+          <div class="col-md-6">
+           <h1><i class="fas fa-check m-1"></i>Likes<i class="fas fa-check m-1"></i></h1>
+            <table class="table table-striped mb-0" style="border:transparent;">
+            <tbody>
+             <tr><td>LIKES</td></tr>
+             <tr><td>LIKES</td></tr>
+             <tr><td>LIKES</td></tr>
+             <tr><td>LIKES</td></tr>
+             <tr><td>LIKES</td></tr>
+            </tbody>
+           </table>
+          </div>
+          <div class="col-md-6">
+           <h1><i class="fas fa-times m-1"></i>Dislikes<i class="fas fa-times m-1"></i></h1>
+           <table class="table table-striped mb-0" style="border:transparent;">
+            <tbody>
+             <tr><td>DISLIKES</td></tr>
+             <tr><td>DISLIKES</td></tr>
+             <tr><td>DISLIKES</td></tr>
+             <tr><td>DISLIKES</td></tr>
+             <tr><td>DISLIKES</td></tr>
+            </tbody>
+           </table>
+          </div>
+          <div class="col-md-12">
+          <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+           <h1><i class="fas fa-star m-1"></i>Trivia<i class="fas fa-star m-1"></i></h1>
+           <p>Text to start the paragraph</p>
+           <p>Second one in case you need to break into smaller sentences or paragraphs</p>
+           <p>You can copy from this section to make more</p>
+           <p>If you write more the box will scroll</p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- LIKES/DISLIKES TAB END ------------------------------------>
+       
+   <!--------- RELATIONSHIP TAB START ------------------------------------>
+      <div class="tab-pane fade" id="RELATIONSHIPDIGI">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Relationships<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 550px;">
+        <div align="center">
+         <div class="row justify-content-center">
+            
+         <!---|You can change the link, icon, and description in this section|--->
+          <div class="col-md-4 my-auto">
+           <p><h3>NAME</h3></p>
+           <a href="LINK" style="color: #944fd9;">
+            <img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:120px;">
+           </a>
+          </div>
+          <div class="col-md-8 my-auto">
+           <p>Brief description</p>
+          </div>
+          <div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+          <!---|Section end, you can add more by copying the whole sections|--->
+            
+         <!---|You can change the link, icon, and description in this section|--->
+          <div class="col-md-4 my-auto">
+           <p><h3>NAME</h3></p>
+           <a href="LINK" style="color: #944fd9;">
+            <img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:120px;">
+           </a>
+          </div>
+          <div class="col-md-8 my-auto">
+           <p>Brief description</p>
+          </div>
+          <div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+          <!---|Section end, you can add more by copying the whole sections|--->
+            
+         <!---|You can change the link, icon, and description in this section|--->
+          <div class="col-md-4 my-auto">
+           <p><h3>NAME</h3></p>
+           <a href="LINK" style="color: #944fd9;">
+            <img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:120px;">
+           </a>
+          </div>
+          <div class="col-md-8 my-auto">
+           <p>Brief description</p>
+          </div>
+          <div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+          <!---|Section end, you can add more by copying the whole sections|--->
+            
+         <!---|You can change the link, icon, and description in this section|--->
+          <div class="col-md-4 my-auto">
+           <p><h3>NAME</h3></p>
+           <a href="LINK" style="color: #944fd9;">
+            <img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:120px;">
+           </a>
+          </div>
+          <div class="col-md-8 my-auto">
+           <p>Brief description</p>
+          </div>
+          <div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+          <!---|Section end, you can add more by copying the whole sections|--->
+            
+         <!---|You can change the link, icon, and description in this section|--->
+          <div class="col-md-4 my-auto">
+           <p><h3>NAME</h3></p>
+           <a href="LINK" style="color: #944fd9;">
+            <img src="https://tinyurl.com/p3hdxbd3" class="d-block mx-auto mb-2 rounded-circle" style="max-height:120px;">
+           </a>
+          </div>
+          <div class="col-md-8 my-auto">
+           <p>Brief description</p>
+          </div>
+          <div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+          <!---|Section end, you can add more by copying the whole sections|--->
+           
+         </div>
+        </div>
+       </div>
+      </div>
+   <!--------- RELATIONSHIP TAB END ------------------------------------>
+       
+   <!--------- BACKSTORY TAB START ------------------------------------>
+      <div class="tab-pane fade" id="BACKSTORYDIGI">
+       <div class="card p-1 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0)"><div align="center"><h1><i class="fas fa-star m-1"></i>Backstory<i class="fas fa-star m-1"></i></h1></div></div>
+       <div class="card p-3 mb-1" style="border-color: #a03fbe;border-radius:15px; background:rgba(255,255,255,0.0);overflow-x:hidden;overflow-y:auto; height: 550px;">
+        <div align="center">
+         <h1><i class="fas fa-star m-1"></i>Free to change title<i class="fas fa-star m-1"></i></h1>
+         <p>Text to start the paragraph</p>
+         <p>Second one in case you need to break into smaller sentences or paragraphs</p>
+        
+         <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+       
+         <h1><i class="fas fa-star m-1"></i>Another title section<i class="fas fa-star m-1"></i></h1>
+         <p>You can copy from this section to make more</p>
+         <p>If you write more the box will scroll</p>
+        
+        <!---|If you need more of there, you can copy from here...|--->
+         <br><div class="mb-2" style="height:1px;width:80%;background-color:#a03fbe;"></div><br>
+       
+         <h1><i class="fas fa-star m-1"></i>In case of another title<i class="fas fa-star m-1"></i></h1>
+         <p>You can add more sections of these</p>
+         <p>Just copy from above the separator to the end of paragraph code</p>
+        <!---|...to here!|--->
+         
+        </div>
+       </div>
+      </div>
+   <!--------- BACKSTORY TAB END ------------------------------------>
+     </div>
+  <!--------- EVO-NAVIGATION START ------------------------------------>
+     <ul class="nav nav-tabs row card-header-tabs">
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2 active" data-toggle="tab" href="#ABOUTDIGI">About</a></li>
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#INTERESTDIGI">Likes/Dislikes</a></li>
+      <li class="col-md mt-2 mb-1 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#RELATIONSHIPDIGI">Relationships</a></li>
+     <li class="col-md mt-2 mb-4 mx-1"><a style="color:#e6b4fa;border-color: #944fd9;border-width:2px;border-radius:15px;background:rgba(0,0,0,0)" class="btn btn-block btn-secondary px-1 py-2" data-toggle="tab" href="#BACKSTORYDIGI">Backstory</a></li>
+     </ul>
+  <!--------- EVO-NAVIGATION END ------------------------------------>
+    </div>
+   </div>
+  <!--------- IMAGE AREA START ------------------------------------>
+   <div class="col-md-6 my-auto">
+    <div align="center">
+     <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/35200284_Kbs0TDdkgqfwLi3.png?1628260227" class="my-4" style="max-height:550px">
+    </div>
+   </div>
+  <!--------- IMAGE AREA END ------------------------------------>
+  <!--------- DIGIMON AREA END ----------------------------------------------------------------------------------------->
+  </div>
+ </div>
+</div>
